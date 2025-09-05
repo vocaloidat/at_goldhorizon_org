@@ -24,6 +24,7 @@ const translations = {
         'stat-founded': '成立年份',
         'stat-projects': '太空项目',
         'stat-beneficiaries': '受益人群',
+        'stat-beneficiaries-number': '50万+',
         // Services
         'services-title': '核心业务领域',
         'service1-title': '太空移民技术',
@@ -59,6 +60,7 @@ const translations = {
         'project3-title': '木星能源收集站',
         'project3-desc': '利用木星大气层进行清洁能源收集的革命性项目，为整个太阳系的能源需求提供支持。每日可产生相当于地球全部能源消耗的能量。',
         'project3-stat1': '年产能量',
+        'project3-stat1-number': '365万',
         'project3-stat2': '运行效率',
         'project4-title': '银河系贸易网络',
         'project4-desc': '连接多个星系的商业贸易网络，促进跨星际文明交流与合作，开创宇宙商业新时代。目前已连接12个星系，贸易量达无数亿易。',
@@ -129,6 +131,7 @@ const translations = {
         'stat-founded': 'Founded',
         'stat-projects': 'Space Projects',
         'stat-beneficiaries': 'Beneficiaries',
+        'stat-beneficiaries-number': '500K+',
         // Services
         'services-title': 'Core Business Areas',
         'service1-title': 'Space Migration Technology',
@@ -164,6 +167,7 @@ const translations = {
         'project3-title': 'Jupiter Energy Collection Station',
         'project3-desc': 'A revolutionary project utilizing Jupiter\'s atmosphere for clean energy collection, supporting the energy needs of the entire solar system. Can generate energy equivalent to Earth\'s total energy consumption daily.',
         'project3-stat1': 'Annual Energy Output',
+        'project3-stat1-number': '3.65M',
         'project3-stat2': 'Operational Efficiency',
         'project4-title': 'Galactic Trade Network',
         'project4-desc': 'A commercial trade network connecting multiple star systems, promoting interstellar civilization exchange and cooperation, creating a new era of cosmic commerce. Currently connecting 12 star systems with countless transactions.',
